@@ -1,0 +1,19 @@
+{
+  "name": "copymanga-crawler",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "puppeteer-core": "^10.2.0",
+    "@types/node": "^14.14.31"
+  },
+  "scripts": {
+    "Build": "npx tsc",
+    "Build & run": "npx tsc &&node ./dist/main.js"
+  },
+  "author": "HonestFox101",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.10.66"
+  }
+}

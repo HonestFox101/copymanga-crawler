@@ -1,0 +1,7 @@
+/dist/
+/.vscode/
+/waifu2x-ncnn-vulkan/
+/package-lock.json
+/Manga/
+
+**/node_modules/
